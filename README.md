@@ -1,1 +1,1 @@
-# gna-private
+# my-private
